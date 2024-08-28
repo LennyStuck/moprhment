@@ -31,4 +31,4 @@ This function ensures that no two frames are alike, making every piece in the Mo
 #### Metadata Generation
 For every frame, metadata is automatically generated, encapsulating the unique attributes of each NFT. This metadata is crucial for platforms that support NFT collections, as it provides detailed information about the artwork, including the materials used for each element.
 
-Feel free to use this as a base and adjust it according to your preferences!
+# ***Something will happen in the future***
