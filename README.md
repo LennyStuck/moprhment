@@ -8,10 +8,11 @@ In the Morphment collection, the familiar Movement Labs logo transforms into a m
 ## The Structure
 The magic of Morphment lies in its structure. We've divided the logo into three key elements:
 
-Inner Core: The heart of the logo, available in iron, rock, wood, glass, gold, grass, brick, and cold materials.
-Outer Shell: Encapsulating the core with the same diverse materials.
-Side Frame: Adding depth and definition, also featuring the same material variety.
-Background: Setting the stage with banana, columns, gods, or dark themes.
+- Inner Core: The heart of the logo, available in iron, rock, wood, glass, gold, grass, brick, and cold materials.
+- Outer Shell: Encapsulating the core with the same diverse materials.
+- Side Frame: Adding depth and definition, also featuring the same material variety.
+- Background: Setting the stage with banana, columns, gods, or dark themes.
+
 Each element is meticulously combined to create a unique visual experience, with every frame being a distinct expression of the logo.
 
 ## Code Overview
